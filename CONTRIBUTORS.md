@@ -13,3 +13,8 @@
  - GitHub : [Naveen](https://github.com/naveenkumar2208)
  - Linkedin : (https://www.linkedin.com/in/naveenkumarkewalramani/)
  
+#### Name : Deepanshu 
+ - Place : Jodhpur, India
+ - Bio : Pre-final year student at IIT Jodhpur
+ - GitHub : [Deepanshu](https://github.com/Deepanshu0509)
+ - Linkedin : (https://www.linkedin.com/in/deepanshu-a463301ba/)
