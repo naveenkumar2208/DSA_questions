@@ -24,3 +24,9 @@
  - Bio : Final year student at Integral University
  - GitHub : [Kushagra](https://github.com/kushagrarastogi7007)
  - Linkedin : (https://www.linkedin.com/in/kushagra-rastogi-0080411a2/)
+
+  #### Name : Himanshu Chhatwal
+ - Place : Uttar Pradesh, India
+ - Bio : second year student at ABESIT,Ghaziabad
+ - GitHub : [himanshu1221](https://github.com/himanshu1221)
+ - Linkedin : (https://www.linkedin.com/in/himanshu-c-537527215/)
