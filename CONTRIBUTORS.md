@@ -18,3 +18,9 @@
  - Bio : Pre-final year student at IIT Jodhpur
  - GitHub : [Deepanshu](https://github.com/Deepanshu0509)
  - Linkedin : (https://www.linkedin.com/in/deepanshu-a463301ba/)
+
+ #### Name : Kushagra
+ - Place : Lucknow, India
+ - Bio : Final year student at Integral University
+ - GitHub : [Kushagra](https://github.com/kushagrarastogi7007)
+ - Linkedin : (https://www.linkedin.com/in/kushagra-rastogi-0080411a2/)
