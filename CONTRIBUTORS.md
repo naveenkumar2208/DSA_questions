@@ -24,3 +24,9 @@
  - Bio : Final year student at Integral University
  - GitHub : [Kushagra](https://github.com/kushagrarastogi7007)
  - Linkedin : (https://www.linkedin.com/in/kushagra-rastogi-0080411a2/)
+ 
+  #### Name : Vedika
+ - Place : Pune, India
+ - Bio : Pre-Final year student at Dr. D. Y. Patil College Of Engineering, Pune 
+ - GitHub : [Vedika](https://github.com/vedikasangle)
+ - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
