@@ -30,3 +30,8 @@
  - Bio : Pre-Final year student at Dr. D. Y. Patil College Of Engineering, Pune 
  - GitHub : [Vedika](https://github.com/vedikasangle)
  - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
+ ### Name : Amit Kumar Patel
+ - Place : Varanasi, India
+ - Bio : Pre-Final year student at Indian Institute of Technology Varanasi, Varanasi
+ - Github : [Amit](https://github.com/short-circuit-67)
+ - LinkedIn : [Amit Kumar Patel](https://www.linkedin.com/in/amit-kumar-patel-2822a6200/)
