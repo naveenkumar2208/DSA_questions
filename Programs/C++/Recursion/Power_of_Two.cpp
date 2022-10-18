@@ -33,7 +33,7 @@ bool powerOf2(int n)
     return powerOf2(n / 2);
 }
  
-// Driver Code
+// Main code 
 int main()
 {
     int n = 64; // True
