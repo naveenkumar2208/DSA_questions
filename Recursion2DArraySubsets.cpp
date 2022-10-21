@@ -36,9 +36,9 @@ int main() {
   for(int i=0; i < length; i++)
     cin >> arr[i];
   
-  int size = arraySubset(arr, length, output);
+  int size1 = arraySubset(arr, length, output);
 
-  for( int i = 0; i < size; i++) { 
+  for( int i = 0; i < size1; i++) { 
 	for( int j = 1; j <= output[i][0]; j++) { 
 		cout << output[i][j] << " ";
     }
