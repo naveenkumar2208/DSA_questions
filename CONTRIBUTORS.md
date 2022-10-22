@@ -30,3 +30,9 @@
  - Bio : Pre-Final year student at Dr. D. Y. Patil College Of Engineering, Pune 
  - GitHub : [Vedika](https://github.com/vedikasangle)
  - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
+
+#### Name : Harpreet 
+ - Place : Chandigarh, India
+ - Bio : Pre-final year student at IIT Jodhpur
+ - GitHub : [Harpreet](https://github.com/harryd0311)
+ - Linkedin : (https://www.linkedin.com/in/harpreet-dhiman-731b861bb/)
