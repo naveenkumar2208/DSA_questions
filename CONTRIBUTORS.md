@@ -30,3 +30,10 @@
  - Bio : Pre-Final year student at Dr. D. Y. Patil College Of Engineering, Pune 
  - GitHub : [Vedika](https://github.com/vedikasangle)
  - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
+
+
+#### Name : Satyam Kumar Gupta
+ - Place : Jodhpur, India
+ - Bio : Pre-final year student at IIT Jodhpur
+ - GitHub : [Deepanshu](https://github.com/Satyam2472)
+ - Linkedin : (https://www.linkedin.com/in/satyam-kumar-gupta-6a0aa01b8/)
