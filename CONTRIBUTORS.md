@@ -30,8 +30,7 @@
  - Bio : Pre-Final year student at Dr. D. Y. Patil College Of Engineering, Pune 
  - GitHub : [Vedika](https://github.com/vedikasangle)
  - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
-
-
+ 
 #### Name : Harpreet 
  - Place : Chandigarh, India
  - Bio : Pre-final year student at IIT Jodhpur
@@ -44,4 +43,10 @@
  - Bio : Pre-final year student at IIT Jodhpur
  - GitHub : [Deepanshu](https://github.com/Satyam2472)
  - Linkedin : (https://www.linkedin.com/in/satyam-kumar-gupta-6a0aa01b8/)
+ 
+#### Name : Aviral Dixit
+ - Place : Lucknow,India
+ - Bio : student,AKGEC
+ - GitHub : [avd30](https://github.com/avd30)
+ - Linkedin : (https://www.linkedin.com/in/aviral-dixit-534467239/)
 
