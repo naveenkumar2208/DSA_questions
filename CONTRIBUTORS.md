@@ -45,3 +45,10 @@
  - GitHub : [Deepanshu](https://github.com/Satyam2472)
  - Linkedin : (https://www.linkedin.com/in/satyam-kumar-gupta-6a0aa01b8/)
 
+
+#### Name : Suhana Parvin
+ - Place : Burdwan, India
+ - Bio : Second year student at Asansol Engineering College
+ - GitHub : [Suhana Parvin](https://github.com/suhanaparvin12)
+ - Linkedin : (https://www.linkedin.com/in/suhana-parvin-a72239247/)
+
