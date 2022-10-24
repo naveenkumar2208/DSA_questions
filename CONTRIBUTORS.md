@@ -31,6 +31,13 @@
  - GitHub : [Vedika](https://github.com/vedikasangle)
  - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
  
+
+  #### Name : Meghwant Singh 
+ - Place : Dehradun, India
+ - Bio : Pre-Final year student at GEU Dehradun
+ - GitHub : [Meghwant](https://github.com/Meghwantsingh)
+ - Linkedin : (https://www.linkedin.com/feed/?trk=msn-top-in)
+=======
  ### Name : Amit Kumar Patel
  - Place : Varanasi, India
  - Bio : Pre-Final year student at Indian Institute of Technology Varanasi, Varanasi
