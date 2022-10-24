@@ -31,6 +31,29 @@
  - GitHub : [Vedika](https://github.com/vedikasangle)
  - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
  
+
+=======
+
+  #### Name : Meghwant Singh 
+ - Place : Dehradun, India
+ - Bio : Pre-Final year student at GEU Dehradun
+ - GitHub : [Meghwant](https://github.com/Meghwantsingh)
+ - Linkedin : (https://www.linkedin.com/feed/?trk=msn-top-in)
+=======
+ ### Name : Amit Kumar Patel
+ - Place : Varanasi, India
+ - Bio : Pre-Final year student at Indian Institute of Technology Varanasi, Varanasi
+ - Github : [Amit](https://github.com/short-circuit-67)
+ - LinkedIn : [Amit Kumar Patel](https://www.linkedin.com/in/amit-kumar-patel-2822a6200/)
+=======
+
+  #### Name : Mallela D. Vinay
+ - Place : Bhopal, India
+ - Bio : Final year student at Maulana Azad National Institute of Technology, Bhopal 
+ - GitHub : [Mallela D. Vinay](https://github.com/MD571)
+ - Linkedin : (https://www.linkedin.com/in/vinay-mallela-07bb8a119/)
+=======
+
 #### Name : Harpreet 
  - Place : Chandigarh, India
  - Bio : Pre-final year student at IIT Jodhpur
@@ -49,4 +72,5 @@
  - Bio : student,AKGEC
  - GitHub : [avd30](https://github.com/avd30)
  - Linkedin : (https://www.linkedin.com/in/aviral-dixit-534467239/)
+
 
