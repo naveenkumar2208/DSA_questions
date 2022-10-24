@@ -32,6 +32,8 @@
  - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
  
 
+=======
+
   #### Name : Meghwant Singh 
  - Place : Dehradun, India
  - Bio : Pre-Final year student at GEU Dehradun
@@ -51,6 +53,7 @@
  - GitHub : [Mallela D. Vinay](https://github.com/MD571)
  - Linkedin : (https://www.linkedin.com/in/vinay-mallela-07bb8a119/)
 =======
+
 #### Name : Harpreet 
  - Place : Chandigarh, India
  - Bio : Pre-final year student at IIT Jodhpur
@@ -63,5 +66,11 @@
  - Bio : Pre-final year student at IIT Jodhpur
  - GitHub : [Deepanshu](https://github.com/Satyam2472)
  - Linkedin : (https://www.linkedin.com/in/satyam-kumar-gupta-6a0aa01b8/)
+ 
+#### Name : Aviral Dixit
+ - Place : Lucknow,India
+ - Bio : student,AKGEC
+ - GitHub : [avd30](https://github.com/avd30)
+ - Linkedin : (https://www.linkedin.com/in/aviral-dixit-534467239/)
 
 
