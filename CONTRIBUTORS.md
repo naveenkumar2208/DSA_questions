@@ -31,9 +31,22 @@
  - GitHub : [Vedika](https://github.com/vedikasangle)
  - Linkedin : (https://www.linkedin.com/in/vedika-sangle-43a43b208/)
 
-
   #### Name : Mallela D. Vinay
  - Place : Bhopal, India
  - Bio : Final year student at Maulana Azad National Institute of Technology, Bhopal 
  - GitHub : [Mallela D. Vinay](https://github.com/MD571)
  - Linkedin : (https://www.linkedin.com/in/vinay-mallela-07bb8a119/)
+=======
+#### Name : Harpreet 
+ - Place : Chandigarh, India
+ - Bio : Pre-final year student at IIT Jodhpur
+ - GitHub : [Harpreet](https://github.com/harryd0311)
+ - Linkedin : (https://www.linkedin.com/in/harpreet-dhiman-731b861bb/)
+ 
+
+#### Name : Satyam Kumar Gupta
+ - Place : Jodhpur, India
+ - Bio : Pre-final year student at IIT Jodhpur
+ - GitHub : [Deepanshu](https://github.com/Satyam2472)
+ - Linkedin : (https://www.linkedin.com/in/satyam-kumar-gupta-6a0aa01b8/)
+
