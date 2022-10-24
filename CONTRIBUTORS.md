@@ -74,3 +74,10 @@
  - Linkedin : (https://www.linkedin.com/in/aviral-dixit-534467239/)
 
 
+
+#### Name : Suhana Parvin
+ - Place : Burdwan, India
+ - Bio : Second year student at Asansol Engineering College
+ - GitHub : [Suhana Parvin](https://github.com/suhanaparvin12)
+ - Linkedin : (https://www.linkedin.com/in/suhana-parvin-a72239247/)
+
