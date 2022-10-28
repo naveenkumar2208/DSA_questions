@@ -74,3 +74,8 @@
  - Linkedin : (https://www.linkedin.com/in/aviral-dixit-534467239/)
 
 
+#### Name : Prathmesh
+ - Place : Mumbai, India
+ - Bio : Pre-final year student at IIT Jodhpur
+ - GitHub : [Prathmesh](https://github.com/Gaonkar1039)
+ - Linkedin : (https://www.linkedin.com/in/prathmesh-gaonkar-050a4a200/)
